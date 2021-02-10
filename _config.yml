@@ -14,5 +14,5 @@ favicon: favicon.png
 license: 本站文章使用 CC BY-SA 4.0 许可。
 #font_mirror: fonts.loli.net // 国内更快
 font_mirror: fonts.googleapis.com
-custom_fonts:
+custom_fonts: 'Source Serif Pro', 'Source Han Serif TC', 'Noto Serif CJK TC', 'Noto Serif TC', 'Noto Serif KR', 'Noto Serif SC', serif
 to_chinese_date: false
