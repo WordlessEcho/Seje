@@ -2,7 +2,7 @@ menu:
   Home: /
   # Archives: /archives
   About: /about
-  RSS: /rss
+  RSS: /atom.xml
   # Member: /member
 
 vertical: false
